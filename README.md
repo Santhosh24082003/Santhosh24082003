@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chendraya Santhosh V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" height="400" src"https://graphixpower.net/assets/images/portfolio/gif/item9.gif">
 
 - 🔭 I’m currently working on **Createing react components**
 
