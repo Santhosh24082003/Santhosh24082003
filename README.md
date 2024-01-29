@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chendraya Santhosh V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" height="400" src"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtqaHp0c3k1bzU4Z2FzbGlpa2dvMDMxYnhxMTRzaXUzazFzNXh0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 - 🔭 I’m currently working on **Createing react components**
 
 - 🌱 I’m currently learning **Node.js , MongoDB , Express.js**
 
-- 💬 Ask me about **react,JS,Web designs**
+- 💬 Ask me about **react.js , JS ,Web designs ,**
 
 - 📫 How to reach me **chendrayasanthosh05@gmail.com**
 
