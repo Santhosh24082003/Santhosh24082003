@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chendraya Santhosh V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://graphixpower.net/assets/images/portfolio/gif/item9.gif">
+<img align="right" alt="Coding" width="400" src"[https://graphixpower.net/assets/images/portfolio/gif/item9.gif](https://imgs.search.brave.com/_373oTlRav_oEW2qE8MmC0_CmzRv99of_QNGeH4yzLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif)">
 - 🔭 I’m currently working on **Createing react components**
 
 - 🌱 I’m currently learning **Node.js , MongoDB , Express.js**
