@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chendraya Santhosh V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Createing react components**
+- 🔭 I’m currently working on **Creating react components**
 
 - 🌱 I’m currently learning **Node.js , MongoDB , Express.js**
 
