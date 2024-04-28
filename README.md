@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chendraya Santhosh V</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on ** Creating react components **
+- 🔭 I’m currently working on Creating react components 
 
-- 🌱 I’m currently learning ** Data structures and algorithms **
+- 🌱 I’m currently learning  Data structures and algorithms 
 
-- 💬 Ask me about ** Web development **
+- 💬 Ask me about  Web development 
 
 - 📫 How to reach me **chendrayasanthosh05@gmail.com**
 
