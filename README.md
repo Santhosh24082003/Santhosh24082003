@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **chendrayasanthosh05@gmail.com**
 
-- Leetcode Profile link - https://leetcode.com/u/chendrayasanthosh05/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
