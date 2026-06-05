@@ -7,7 +7,7 @@
 
 - 💬 Ask me about  Web development 
 
-- 📫 How to reach me **chendrayasanthosh05@gmail.com**
+- 📫 How to reach me **santhoshsv0524@gmail.com** , **chendrayasanthosh05@gmail.com** . 
 
 
 <h3 align="left">Connect with me:</h3>
